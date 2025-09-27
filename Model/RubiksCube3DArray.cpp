@@ -1,5 +1,5 @@
 #include "RubiksCube.h"
-
+//tanmay
 class RubiksCube3dArray : public RubiksCube {
 private:
 
