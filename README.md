@@ -1,4 +1,6 @@
-                                                                  RUBIKS CUBE SOLVER
+  <*************************************************************RUBIKS CUBE SOLVER*********************************************************************>
+
+  
 Solving Rubik’s Cube using Algorithm 
 There are 43,252,003,274,489,856,000 possible states of Rubik’s Cube. Despite that, in 2010 it was shown that any Rubik’s Cube configuration can be solved in 20 moves or fewer.
 We can use our Human algorithm (the way humans solve the cube) and program it. Our program will solve it within milliseconds. But it will probably do 100s of moves to solve the cube. What we are interested in is to solve the cube in a very small number of moves. And we want the program to output those moves/operations done to solve the cube. 
