@@ -90,7 +90,8 @@ Implement the member functions in the base class of Rubik’s Cube that would gi
     • OWG→2
     • WBO→3
     • WBR→4 YRB→5  YRG→6 YRO→7  YOB→8
-      Then there are 3 orientation 0→2 for three dfifferent colors which are there.
+      Then there are 3 orientation 0→2 for three dfifferent colors which are there.<img width="449" height="430" alt="ModelofCube" src="https://github.com/user-attachments/assets/0421440d-67e8-4c49-aaab-c72eed14ff29" />
+
 
 Implemented the CornerPatternDatabase class and its getDatabaseIndex() method by combining the ranks of corner index permutation and corner orientation. Used the PermutationIndexer class as a black box.
 Now the whole implementation is done the only thing left is to actually do BFS and store the value in file. After the Database is created we can now make changes in our IDA*  Algorithm to give the real estimate which works as a heuristic.
