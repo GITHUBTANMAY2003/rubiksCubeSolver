@@ -1,0 +1,3 @@
+/home/tanmay-kumar/rubiksCubeSolver/build/CMakeFiles/rubiks_cube_solver.dir
+/home/tanmay-kumar/rubiksCubeSolver/build/CMakeFiles/edit_cache.dir
+/home/tanmay-kumar/rubiksCubeSolver/build/CMakeFiles/rebuild_cache.dir

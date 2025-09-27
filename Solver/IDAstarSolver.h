@@ -1,7 +1,7 @@
-
+//tanmay
 #include<bits/stdc++.h>
 #include "../Model/RubiksCube.h"
-// #include "../PatternDatabases/CornerPatternDatabase.h"
+#include "../PatternDatabases/CornerPatternDatabase.h"
 
 #ifndef RUBIKS_CUBE_SOLVER_IDASTARSOLVER_H
 #define RUBIKS_CUBE_SOLVER_IDASTARSOLVER_H

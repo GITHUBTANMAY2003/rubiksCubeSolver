@@ -1,5 +1,5 @@
-#include "RubiksCube.h"
 //tanmay
+#include "RubiksCube.h"
 char RubiksCube::getColorLetter(COLOR color) {
     switch (color) {
         case COLOR::BLUE:
