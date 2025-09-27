@@ -29,7 +29,7 @@ The Problem with DFS is that it is taking the much longer time than expected and
 **IDDFS combines depth-first search’s space-efficiency and breadth-first search’s fast search**
 IDDFS:
 https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
+<img width="318" height="213" alt="IDA*" src="https://github.com/user-attachments/assets/bd6705ab-0131-4a27-9109-060e01b22485" />
 
-<img width="1197" height="898" alt="Screenshot from 2025-09-22 15-29-13" src="https://github.com/user-attachments/assets/95f490b1-87bb-4c59-b53a-c4f3223ed4fe" />
 
 
