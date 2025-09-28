@@ -241,35 +241,17 @@ int main() {
 //    cout << "\n";
 //    idAstarSolver.rubiksCube.print();
 
-// CornerPatternDatabase Testing ---------------------------------------------------------------------------------
 
-//    CornerPatternDatabase cornerDB;
-//    RubiksCubeBitboard cube;
-//    cube.print();
-//
-//    cout << (int)cornerDB.getNumMoves(cube) << "\n";
-//
-//    cornerDB.setNumMoves(cube, 5);
-//
-//    cout << (int)cornerDB.getNumMoves(cube) << "\n";
-//
-//    cube.randomShuffleCube(1);
-//    cube.print();
-//    cout << (int)cornerDB.getNumMoves(cube) << "\n";
-//
-//    cornerDB.setNumMoves(cube, 6);
-//
-//    cout << (int)cornerDB.getNumMoves(cube) << "\n";
+
 
 
 // CornerDBMaker Testing --------------------------------------------------------------------------
-    // string fileName = \"C:\\Users\\user\\CLionProjects\\rubiks-cube-solver\\Databases\\cornerDepth5V1.txt";
     string fileName = "../Databases/cornerDepth5V1.txt";
 
 //    Code to create Corner Database
+
 //    CornerDBMaker dbMaker(fileName, 0x99);
 //    dbMaker.bfsAndStore();
-
 
     RubiksCubeBitboard cube;
     auto shuffleMoves = cube.randomShuffleCube(13);
